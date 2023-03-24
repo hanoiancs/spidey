@@ -8,6 +8,6 @@ if __name__ == '__main__':
     # print(chapters)
 
     # Get chapter detail
-    chapter = crawler.get_chapter('bumijanna-34')
+    chapter = crawler.get_chapter('bumijanna-36')
     print(chapter["content_text"])
     
